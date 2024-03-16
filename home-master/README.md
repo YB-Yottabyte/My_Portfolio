@@ -7,10 +7,10 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://github.com/YB-Yottabyte/Portfolio-.git">hashirshoaeb.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://github.com/YB-Yottabyte/Portfolio-.git">About Me</a>
   </p>
 </p>
 
@@ -70,7 +70,6 @@
 # About the project
 
 [![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
-
 
 ## Technology stack 🛠️
 
@@ -160,12 +159,12 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 10. To change the thumbnail image:
 
-    - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
-    - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
-    
-   Next time if you make changes, repeat from step 8.
+    - Navigate to the "public" folder.
+    - There you will see "social-image.png".
+    - Delete it.
+    - Take a screenshot of your version and rename it "social-image.png" and place it there.
+
+Next time if you make changes, repeat from step 8.
 
 Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
